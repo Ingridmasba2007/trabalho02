@@ -1,3 +1,11 @@
+:root{
+    --cor-de-fundo:#105bb1;
+    --cor-de-texto:white;
+    --fundo-senha:#013E83;
+    --fundo-texto:black;
+    --borda:red;
+}
+
 body{
     background-color: #105bb1;
     color:white ;
