@@ -12,8 +12,13 @@
 }
 
 body{
+    {font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+   }
     background-color: #105bb1;
     color:white ;
-    <style>
+    
 
 }
