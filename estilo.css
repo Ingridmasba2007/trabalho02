@@ -1,12 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
 :root{
     --cor-de-fundo:#105bb1;
     --cor-de-texto:white;
-    --fundo-senha:#013E83;
-    --fundo-texto:black;
-    --borda:red;
+    --fundo-senha:#4190EA;
+    --fundo-texto:#4190EA;
+    --borda:#4190EA;
 }
 
 body{
     background-color: #105bb1;
     color:white ;
+    <style>
+
 }
