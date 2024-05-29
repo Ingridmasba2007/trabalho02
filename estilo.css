@@ -18,8 +18,9 @@ body{
     font-style: normal;
     background-color: #105bb1;
     color:white ;
-    
-
 }
-{ 
-    font-weight:400;
+.titulo-principal{
+    font-weight: 700;
+}
+.titulo-secundario{
+    font-weight: 24px;
