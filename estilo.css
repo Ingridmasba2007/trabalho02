@@ -77,7 +77,7 @@ body{
 
 .parametro-senha{
     background-color:var(--fundo-senha);
-    border: 7px solid red;
+    border: 6px solid rgb(7, 0, 220);
 
 }
 y
