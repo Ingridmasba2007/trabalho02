@@ -84,5 +84,10 @@ body{
     margin-top: 32px;
     padding: 24px;
 }
-y
+ #campo-senha{
+background-color: var(--cor-de-fundo);
+border: none;
+color: var(--cor-de-texto);
+font-size: 40px;
+ }
 
