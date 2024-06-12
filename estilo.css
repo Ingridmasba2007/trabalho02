@@ -96,4 +96,9 @@ margin-left: 20px;
 outline: none;
     
  }
+.parametro--coluna-senha{
+display: flex;
+flex-direction: column;
+justify-content: center;
 
+}
