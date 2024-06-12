@@ -90,4 +90,8 @@ border: none;
 color: var(--cor-de-texto);
 font-size: 40px;
  }
+ #campo-senha:focus{
+outline: none;
+    
+ }
 
