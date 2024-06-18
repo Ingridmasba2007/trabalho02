@@ -103,6 +103,7 @@ justify-content: center;
 background-color: black;
 
 }
+
 @media screen and(min-width:768px) {
     .parametro--coluna-senha{ 
         background-color: red;
