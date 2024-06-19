@@ -94,14 +94,14 @@ outline: none;
 display: flex;
 flex-direction: column;
 justify-content: center;
-;
+
 
 
 }
 
 
 @media screen and (min-width:768px) {
-    .parametro--coluna-senha{ 
+    .parametro-coluna__senha{ 
       flex-direction: row;
 
     }    
