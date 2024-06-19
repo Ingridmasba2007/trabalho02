@@ -73,7 +73,7 @@ body{
     border: 6px solid rgb(7, 0, 220);
     margin: 0 auto;
     padding: 24px;
-    width: 50%;
+    
    
 
 
@@ -102,7 +102,7 @@ justify-content: center;
 
 
 @media screen and (min-width:768px) {
-    .parametro-coluna__senha{ 
+    .parametro--coluna-senha{ 
       flex-direction: row;
 
     }    
