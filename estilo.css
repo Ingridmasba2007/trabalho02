@@ -78,10 +78,7 @@ body{
 
 
 }
-.parametro--coluna-senha{
-    width: 50%;
-    margin: 0 auto;
-}
+
  #campo-senha{
 background-color: var(--cor-de-fundo);
 border: none;
@@ -98,7 +95,7 @@ outline: none;
 .parametro--coluna-senha{
 display: flex;
 flex-direction: column;
-justify-content: center;
+justify-content: space-between;
 
 
 
