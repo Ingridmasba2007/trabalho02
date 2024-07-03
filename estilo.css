@@ -109,6 +109,17 @@ height: 30px;
 width: 100%;
 
 }
+.forca{
+height: 30px;
+
+
+}
+.fraca{
+width: 25%;
+background-color: #e71b32;
+
+
+}
 
 @media screen and (min-width:768px) {
     .parametro--coluna-senha{ 
