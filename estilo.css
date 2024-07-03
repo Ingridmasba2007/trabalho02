@@ -78,6 +78,10 @@ body{
 
 
 }
+.parametro--coluna-senha{
+    width: 50%;
+    margin: 0 auto;
+}
  #campo-senha{
 background-color: var(--cor-de-fundo);
 border: none;
