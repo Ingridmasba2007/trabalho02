@@ -8,6 +8,11 @@ function diminuirTamanho(){
    tamanhoSenha = tamanhoSenha - 1
    numeroSenha.textContent = tamanhoSenha
 }
+ 
+function aumentarTamanho(){
+    tamanhoSenha = tamanhoSenha + 1
+    numeroSenha.textContent = tamanhoSenha
+ }
 
 
 
