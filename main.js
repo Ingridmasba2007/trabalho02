@@ -12,6 +12,16 @@ function diminuirTamanho(){
    numeroSenha.textContent = tamanhoSenha }
 }
 
+function aumentarTamanho(){
+if (aumentarTamanho > 20) {
+    tamanhoSenha = tamanhoSenha + 1
+    numeroSenha.textContent = tamanhoSenha
+    
+}
+
+
+}
+
 
 
 
