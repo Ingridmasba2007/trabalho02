@@ -7,7 +7,7 @@ numeroSenha.textContent = tamanhoSenha
 
 
 function diminuirTamanho(){
-   if (!tamanhoSenha > 1) {
+   if (tamanhoSenha > 1) {
    tamanhoSenha = tamanhoSenha - 1
    numeroSenha.textContent = tamanhoSenha }
 }
