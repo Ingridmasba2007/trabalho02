@@ -32,9 +32,10 @@ if (tamanhoSenha < 20) {
 }
 function geraSenha(){
   let senha = " "
-  for(let i =0;i < tamanhoSenha; i++) 
+  for(let i =0;i < tamanhoSenha; i++) {
    let numeroAleatorio = Math.random()*maiuscula.length
    console.log(numeroAleatorio) 
+}
 }
 
 
