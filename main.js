@@ -31,7 +31,8 @@ if (tamanhoSenha < 20) {
 
 }
 function geraSenha(){
-  console.log("teste")  
+  let senha = " "
+  for(let i =0;i < tamanhoSenha; i++)  
 }
 
 
