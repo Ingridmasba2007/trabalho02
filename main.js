@@ -12,7 +12,7 @@ let simbolos ="!?@%&*"
 
 
 
-
+geraSenha()
 
 function diminuirTamanho(){
    if (tamanhoSenha > 1) {
