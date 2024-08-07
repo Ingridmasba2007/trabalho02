@@ -35,6 +35,7 @@ function geraSenha(){
   for(let i =0;i < tamanhoSenha; i++) {
    let numeroAleatorio = Math.random()*maiuscula.length
    numeroAleatorio = Math.floor(numeroAleatorio)
+   senha = senha + maiuscula[numeroAleatorio];
    console.log(numeroAleatorio) 
 }
 }
