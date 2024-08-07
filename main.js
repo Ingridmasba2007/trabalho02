@@ -39,7 +39,7 @@ function geraSenha(){
    senha = senha + maiuscula[numeroAleatorio];
    console.log(senha) 
 }
-
+campoSenha.value = senha
 }
 
 
