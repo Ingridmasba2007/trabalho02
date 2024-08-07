@@ -4,6 +4,12 @@ botoes[0].onclick = diminuirTamanho
 botoes[1].onclick = aumentarTamanho
 let tamanhoSenha = 5
 numeroSenha.textContent = tamanhoSenha
+let maiuscula ="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+let minuscula ="abcdefghijklmnopqrstuvwxyz"
+let numero = "0123456789"
+let simbolos ="!?@%&*"
+
+
 
 
 
@@ -12,6 +18,7 @@ function diminuirTamanho(){
    tamanhoSenha = tamanhoSenha - 1
    numeroSenha.textContent = tamanhoSenha }
 }
+
 
 function aumentarTamanho(){
 if (tamanhoSenha < 20) {
