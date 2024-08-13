@@ -21,7 +21,7 @@ let simbolos ="!?@%&*"
 
 geraSenha()
 console.log (maiuscula)
-for (i=0;< checkbox.length;i++){
+for (i=0; i < checkbox.length;i++){
    checkbox[i].onclick = geraSenha;
 }
 
