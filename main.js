@@ -41,19 +41,19 @@ function geraSenha(){
 
  let senha = ""
   let alfabeto = "";
-  if (checkbox[0].checket){
+  if (checkbox[0].checked){
     alfabeto = alfabeto+numero 
 }
 
-if (checkbox[1].checket){
+if (checkbox[1].checked){
   alfabeto = alfabeto+minuscula 
 }
 
-if (checkbox[2].checket){
+if (checkbox[2].checked){
   alfabeto = alfabeto+maiuscula 
 }
 
-if (checkbox[3].checket){
+if (checkbox[3].checked){
   alfabeto = alfabeto+simbolos 
 }
 
