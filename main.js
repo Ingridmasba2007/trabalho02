@@ -44,15 +44,15 @@ function geraSenha(){
   if (checkbox[0].checket){
     alfabeto = alfabeto+numero 
 }
-let alfabeto = "";
+
 if (checkbox[1].checket){
   alfabeto = alfabeto+minuscula 
 }
-let alfabeto = "";
+
 if (checkbox[2].checket){
   alfabeto = alfabeto+maiuscula 
 }
-let alfabeto = "";
+
 if (checkbox[3].checket){
   alfabeto = alfabeto+simbolos 
 }
