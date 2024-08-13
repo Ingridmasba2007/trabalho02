@@ -38,11 +38,29 @@ if (tamanhoSenha < 20) {
 
 }
 function geraSenha(){
-  let senha = " "
+
+ let senha = ""
+  let alfabeto = "";
+  if (checkbox[0].checket){
+    alfabeto = alfabeto+numero 
+}
+let alfabeto = "";
+if (checkbox[1].checket){
+  alfabeto = alfabeto+minuscula 
+}
+let alfabeto = "";
+if (checkbox[2].checket){
+  alfabeto = alfabeto+maiuscula 
+}
+let alfabeto = "";
+if (checkbox[3].checket){
+  alfabeto = alfabeto+simbolos 
+}
+
   for(let i =0;i < tamanhoSenha; i++) {
-   let numeroAleatorio = Math.random()*maiuscula.length
+   let numeroAleatorio = Math.random()*alfabeto.length
    numeroAleatorio = Math.floor(numeroAleatorio)
-   senha = senha + maiuscula[numeroAleatorio];
+   senha = senha + alfabeto[numeroAleatorio];
    console.log(senha) 
 }
 campoSenha.value = senha
