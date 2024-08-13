@@ -1,12 +1,14 @@
 const numeroSenha = document.querySelector('.parametro-senha__texto')
 const botoes= document.querySelectorAll ('.parametro-senha__botao')
-botoes[0].onclick = diminuirTamanho
-botoes[1].onclick = aumentarTamanho
 const campoSenha = document.querySelector("#campo-senha")
 const checkbox = document.querySelectorAll('.checkbox')
-
-const.log(checkbox)
 let tamanhoSenha = 5
+
+botoes[0].onclick = diminuirTamanho
+botoes[1].onclick = aumentarTamanho
+
+console.log(checkbox)
+
 
 
 numeroSenha.textContent = tamanhoSenha
